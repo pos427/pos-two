@@ -1,0 +1,37 @@
+ [
+    {
+        "barcode": "ITEM000000",
+        "name": "可口可乐",
+        "unit": "瓶",
+        "price": 3.00,
+        "discount":  0.5
+    },
+    {
+        "barcode": "ITEM000000",
+        "name": "可口可乐",
+        "unit": "瓶",
+        "price": 3.00,
+        "discount":  0.5
+    },
+    {
+        "barcode": "ITEM000002",
+        "name": "雪碧",
+        "unit": "瓶",
+        "price": 2.20,
+        "discount":  0.7
+    },
+    {
+        "barcode": "ITEM000000",
+        "name": "可口可乐",
+        "unit": "瓶",
+        "price": 3.00,
+        "discount":  0.5
+    },
+    {
+        "barcode": "ITEM000004",
+        "name": "电池",
+        "unit": "节",
+        "price": 5.00,
+      //  "discount":  1
+    }
+]

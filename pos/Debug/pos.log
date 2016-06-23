@@ -1,0 +1,18 @@
+﻿Build started 2016/6/23 17:09:57.
+     1>Project "C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\pos\pos.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\vs13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\西瓜酱~\desktop\上课\软工课设\pos\pos\item.h(29): warning C4244: 'return' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\西瓜酱~\desktop\上课\软工课设\pos\pos\item.h(30): warning C4244: 'return' : conversion from 'const double' to 'float', possible loss of data
+       Link:
+         C:\vs13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\Debug\pos.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\Debug\pos.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\Debug\pos.lib" /MACHINE:X86 Debug\json_reader.obj
+         Debug\json_value.obj
+         Debug\json_writer.obj
+         Debug\main.obj
+         pos.vcxproj -> C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\Debug\pos.exe
+     1>Done Building Project "C:\Users\西瓜酱~\Desktop\上课\软工课设\pos\pos\pos.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41
