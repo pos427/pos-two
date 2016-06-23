@@ -74,11 +74,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Pos.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cart.json" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CartInfo.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="ItemGroup.h" />
   </ItemGroup>
