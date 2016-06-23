@@ -23,7 +23,7 @@ int main(){
 
 	reader.parse(cart, value);
 
-	Counter counter;
+	Counter counter; //dummy
 	
 	assert(value.isArray());
 	

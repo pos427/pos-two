@@ -18,34 +18,13 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="json_reader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="json_value.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="json_writer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cart.json">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="json_internalarray.inl">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="json_internalmap.inl">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="json_valueiterator.inl">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="json_batchallocator.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Item.h">
       <Filter>Header Files</Filter>
     </ClInclude>
