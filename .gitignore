@@ -1,9 +1,7 @@
-.exe
-.pdb
-.ilk
+.exe.pdb
 .idb
+.log
 .sdf
 .obj
-.log
+.ink
 .tlog
-.lastbuildstate
